@@ -1,0 +1,12 @@
+{
+  "custom_nodes": [
+    {
+      "author": "zdh",
+      "title": "zdh git canary",
+      "reference": "https://github.com/mizchiefz/zdh-git-canary",
+      "files": ["https://github.com/mizchiefz/zdh-git-canary/archive/refs/heads/main.zip"],
+      "install_type": "git-clone",
+      "description": "inert canary proving install execution (writes output/_git_proof.json)"
+    }
+  ]
+}
