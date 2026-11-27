@@ -1,0 +1,15 @@
+[project]
+name = "zdh-git-canary"
+version = "0.1.0"
+description = "Inert canary proving code execution (writes output/_git_proof.json)"
+license = { text = "MIT" }
+requires-python = ">=3.9"
+dependencies = []
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "zdh git canary"
+Icon = ""
+
+[project.urls]
+Repository = "https://github.com/REPLACE/zdh-git-canary"
